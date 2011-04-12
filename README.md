@@ -3,6 +3,8 @@
 Massidea.org is a free open innovation community where users are uploading their ideas, visions of the future and today's challenges and linking them with other user.s brainchildren.
 The mixed outcome - lucky insight - is boosting individual.s creativity and enabling the birth of smashing idea.
 
+This repository is meant as a tutorial or bootcamp for new developers who wish to join in development. Before starting you should read the [http://code.google.com/p/massidea/wiki/Orientation](Orientation document).
+
 ## Git and GitHub - Guideline ##
 
 ### General notes
@@ -14,7 +16,7 @@ The mixed outcome - lucky insight - is boosting individual.s creativity and enab
 ** PLEASE DON'T USE FORK QUEUE. HOWTO MERGE LATEST CHANGES FROM UPSTREAM, READ: [http://help.github.com/forking/#pulling_in_upstream_changes](http://help.github.com/forking/#pulling_in_upstream_changes) **
 
 ### Push note
-** AFTER YOU PUSH OUR CHANGES TO GITHUB. SEND PULL REQUEST TO ACCOUNT: massidea **
+** AFTER YOU PUSH YOUR CHANGES TO GITHUB SEND PULL REQUEST TO ACCOUNT: massidea **
 ![GitHub - Pull request](http://www.massidea.org/wiki/images/e/ec/Pull_request.png "")
 
 ** And please, add issue to pull request.
